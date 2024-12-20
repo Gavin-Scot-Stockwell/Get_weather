@@ -1,5 +1,5 @@
 
-# Vehicles
+# Weather App
 
 ## License
 [![Static Badge](https://img.shields.io/badge/License-Mit_License-name?style=flat&logo=%23512BD4&logoColor=%2300bfff&labelColor=%23add8e6&color=%2300bfff)](https://mit-license.org/)
@@ -19,7 +19,7 @@
 The website is supposed to give weather data of cities.
 
 ## Installation
-Is a website please vist at 
+Is a website please vist at https://get-weather-gdso.onrender.com/
 
 ## Usage
 * Fill in the city name and hit select to get results.
