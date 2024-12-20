@@ -45,7 +45,7 @@ inside currentWeather however
 * [video how to work app](https://youtu.be/ZfoupAUYrJAI)
 
 ## Questions
-* GitHub-username https://github.com/Gavin-Scot-Stockwell/Vehicles
+* GitHub-username https://github.com/Gavin-Scot-Stockwell/Get_weather
 * Email-address gsstockwell@gmail.com
 
 
